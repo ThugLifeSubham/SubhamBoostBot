@@ -5,6 +5,8 @@
 # Do [ 🌟] 15 stars and i will leak sell.app boost bot
 
 # How to use this shit?
-() install the modules by typing `pip install requirements.txt
+() install the modules by typing `pip install requirements.txt`
+
 () fill ur settings on config.json
+
 () skid this shit and suck my dick
